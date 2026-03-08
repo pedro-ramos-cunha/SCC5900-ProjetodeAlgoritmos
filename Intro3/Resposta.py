@@ -3,7 +3,7 @@
 ## Nome: Pedro ramos Cunha
 ## NUSP: 10892248
 ## Curso: PPG-CCMC-ICMC-USP Mestrado em Ciência de Computação 
-## Data de Submissão: 
+## Data de Submissão: 08/03/2026 19:22:06
 
 import heapq
 
