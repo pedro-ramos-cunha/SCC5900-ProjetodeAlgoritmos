@@ -1,5 +1,9 @@
-# SCC5900-ProjetodeAlgoritmos
-Repositório para manter versionadas as tarefas do mestrado
+# SCC5900 - Projeto de Algoritmos
+
+Repositório para manter versionadas as tarefas do mestrado. Ementa disponível no sistema Janus em:
+[SCC5900 - Projeto de Algoritmos](https://uspdigital.usp.br/janus/componente/disciplinasOferecidasInicial.jsf?action=3&sgldis=SCC5900)
+ 
+**Docente Ministrante**: João do Espírito Santo Batista Neto
 
 
 Tarefas e prazos de entrega
