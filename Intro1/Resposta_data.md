@@ -1,5 +1,12 @@
 # Informações sobre tempo de execução da tarefa
 
+|Tarefa 1                                           |
+|:------|
+|Curso: PPG-CCMC-ICMC-USP Mestrado em Ciência de Computação  |
+|Nome: Pedro ramos Cunha                            |
+|NUSP: 10892248 |
+|Data de Submissão: 08/03/2026 00:28:50 |
+
 Informações acerca dos resultados obtidos
 
 ## Dados da Execução
@@ -15,10 +22,11 @@ Informações acerca dos resultados obtidos
 
 **Tempo: O(n + s)**
 
-* O loop de contagem percorre os n números do vetor → O(n)
-* O loop de pares vai de 1 até s/2 → O(s)
-* As operações de dicionário dentro dos loops são O(1)
 
-Total: O(n + s)
-Como os limites são n ≤ 10⁶ e s ≤ 10⁴, na prática o gargalo é o primeiro loop (leitura dos números), o que é ótimo.
-Espaço: O(min(n, s))
+![imagem_equacao](https://latex.codecogs.com/png.image?\bg{white}O_{(n)}=C\times&space;n&plus;s&space;)
+
+Onde:
+* C constante que identifica o a soma do custo dos passos dentro do for 
+* n ≤ 10⁶
+* s ≤ 10⁴
+
