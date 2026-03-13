@@ -22,5 +22,5 @@ Informações acerca dos resultados obtidos
 
 ## Informações sobre a complexidade
 
-![imagem_equacao](https://latex.codecogs.com/svg.image?\bg{white}&space;2(m&plus;n)&plus;log(m*n)) 
+![imagem_equacao](https://latex.codecogs.com/svg.image?\bg{white}&space;2(m&plus;n)&plus;log(m*n) ) 
 
