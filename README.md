@@ -9,6 +9,11 @@ Repositório para manter versionadas as tarefas do mestrado. Ementa disponível 
 Tarefas e prazos de entrega
 
 * **Entrega para 2026-03-12**
-    * &#9989; [Intro1](Intro1) 08/03/2026 00:28:50
-    * &#9989; [Intro2](Intro2) 08/03/2026 10:01:11
-    * &#9989; [Intro3](Intro3) 08/03/2026 19:22:06
+    * &#9989; [Tarefa 1 (Intro1)](Intro1) 08/03/2026 00:28:50
+    * &#9989; [Tarefa 2 (Intro2)](Intro2) 08/03/2026 10:01:11
+    * &#9989; [Tarefa 3 (Intro3)](Intro3) 08/03/2026 19:22:06
+* **Entrega para 2026-03-19**
+    * &#9989; [Tarefa 4 (Guloso1)](Guloso1) 
+    * &#9989; [Tarefa 5 (Guloso2)](Guloso2) 
+* **Entrega para 2026-03-XX**
+    
