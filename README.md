@@ -13,7 +13,7 @@ Tarefas e prazos de entrega
     * &#9989; [Tarefa 2 (Intro2)](Intro2) 08/03/2026 10:01:11
     * &#9989; [Tarefa 3 (Intro3)](Intro3) 08/03/2026 19:22:06
 * **Entrega para 2026-03-19**
-    * &#9989; [Tarefa 4 (Guloso1)](Guloso1) 
+    * &#9989; [Tarefa 4 (Guloso1)](Guloso1) 13/03/2026 09:50:03
     * &#9989; [Tarefa 5 (Guloso2)](Guloso2) 
 * **Entrega para 2026-03-XX**
     
