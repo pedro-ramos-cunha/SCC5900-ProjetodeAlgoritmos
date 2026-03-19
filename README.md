@@ -15,5 +15,5 @@ Tarefas e prazos de entrega
 * **Entrega para 2026-03-19**
     * &#9989; [Tarefa 4 (Guloso1)](Guloso1) 13/03/2026 09:50:03
     * &#9989; [Tarefa 5 (Guloso2)](Guloso2) 13/03/2026 14:05:00
-* **Entrega para 2026-03-XX**
-    
+* **Entrega para 2026-03-25**
+    *  [Tarefa 6 (backtracing)](backtracing1) 13/03/2026 09:50:03
