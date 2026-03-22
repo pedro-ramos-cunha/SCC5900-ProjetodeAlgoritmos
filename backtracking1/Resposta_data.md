@@ -36,4 +36,4 @@ Informações acerca dos resultados obtidos
 
 Considerando que a implementação é semelhante a uma busca completa de àrvore binária faz sentido que a complexidade O(n) seja semelhante. Assim, pela inferência estimo:
 
-![imagem_equacao](https://latex.codecogs.com/svg.image?\bg{white}log(n) )
+![imagem_equacao](https://latex.codecogs.com/png.image?\bg{white}O(n)=n\times&space;log(n))
