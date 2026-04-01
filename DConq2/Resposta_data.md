@@ -5,17 +5,16 @@
 |Curso: PPG-CCMC-ICMC-USP Mestrado em Ciência de Computação  |
 |Nome: Pedro ramos Cunha                            |
 |NUSP: 10892248 |
-|Data de Submissão:  |
+|Data de Submissão: 01/04/2026 00:42:48 |
 
 Informações acerca dos resultados obtidos
 
 ## Dados da Execução
 
-
-## Informações sobre a complexidade
-
-Considerando que a implementação é semelhante a uma busca completa de àrvore binária faz sentido que a complexidade O(n) seja semelhante. Assim, pela inferência estimo:
-
-![imagem_equacao](https://latex.codecogs.com/png.image?\bg{white}O(n)=n\times&space;log(n))
+|  Caso  |  Status | Tempo de CPU | Tam. de Memória Utilizado |     Mensagem     |
+|:------:|:-------:|:------------:|:-------------------------:|:----------------:|
+| Caso 1 | Correto |   0.1378 s   |           -1 Kb           | Resposta Correta |
+| Caso 2 | Correto |   0.9269 s   |           -1 Kb           | Resposta Correta |
+| Caso 3 | Correto |   0.0178 s   |           -1 Kb           | Resposta Correta |
 
 
