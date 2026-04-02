@@ -1,6 +1,6 @@
 # Informações sobre tempo de execução da tarefa
 
-|Tarefa                                            |
+|Tarefa 9                                           |
 |:------|
 |Curso: PPG-CCMC-ICMC-USP Mestrado em Ciência de Computação  |
 |Nome: Pedro ramos Cunha                            |

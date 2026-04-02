@@ -19,6 +19,6 @@ Tarefas e prazos de entrega
     * &#9989; [Tarefa 6 (backtracing)](backtracing1) 19/03/2026 00:05:21
     * &#9989; [Tarefa 7 (backtracing)](backtracing2) 22/03/2026 13:10:18
 * **Entrega para 2026-04-02**
-    *  [Tarefa 8 (DConq1)](DConq1) 
-    *  [Tarefa 9 (DConq2)](DConq2) 
+    * &#9989; [Tarefa 8 (DConq1)](DConq1) 01/04/2026 23:15:58
+    * &#9989; [Tarefa 9 (DConq2)](DConq2) 01/04/2026 00:42:48
 * **Entrega para 2026-0X-XX**
