@@ -23,5 +23,5 @@ Tarefas e prazos de entrega
     * &#9989; [Tarefa 9 (DConq2)](DConq2) 01/04/2026 00:42:48
 * **Entrega para 2026-04-16**
     * &#9989; [Tarefa 10 (ProgDin1)](ProgDin1) 12/04/2026 18:49:23
-    *  [Tarefa 11 (ProgDin2)](ProgDin2)
+    * &#9989; [Tarefa 11 (ProgDin2)](ProgDin2) 12/04/2026 19:09:19
 * **Entrega para 2026-0X-XX**
