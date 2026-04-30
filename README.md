@@ -29,5 +29,5 @@ Tarefas e prazos de entrega
     * &#9989; [Tarefa 13 (ProgDin4)](ProgDin4) 23/04/2026 13:34:39
 * **Entrega para 2026-04-30**
     * &#9989; [Tarefa 14 (ProgDin5)](ProgDin5) 30/04/2026 16:06:03
-    *  [Tarefa 15 (ProgDin6)](ProgDin6)
+    * &#9989; [Tarefa 15 (ProgDin6)](ProgDin6) 30/04/2026 17:09:26
 * **Entrega para 2026-0X-XX**
