@@ -34,3 +34,4 @@ Tarefas e prazos de entrega
     * [Tarefa 16 (bitmask1)](bitmask1)
     * [Tarefa 17 (bitmask2)](bitmask2)
 * **Entrega para 2026-0X-XX**
+

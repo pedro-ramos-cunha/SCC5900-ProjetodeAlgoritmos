@@ -21,5 +21,3 @@ Informações acerca dos resultados obtidos
 ## Informações sobre a complexidade
 
 
-
-
