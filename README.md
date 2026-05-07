@@ -30,4 +30,7 @@ Tarefas e prazos de entrega
 * **Entrega para 2026-04-30**
     * &#9989; [Tarefa 14 (ProgDin5)](ProgDin5) 30/04/2026 16:06:03
     * &#9989; [Tarefa 15 (ProgDin6)](ProgDin6) 30/04/2026 17:09:26
+* **Entrega para 2026-05-07**
+    * [Tarefa 16 (bitmask1)](bitmask1)
+    * [Tarefa 17 (bitmask2)](bitmask2)
 * **Entrega para 2026-0X-XX**
