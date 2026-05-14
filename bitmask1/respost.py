@@ -17,7 +17,6 @@ def encontrar_menor_caminho(n, trilhas):
                 continue
             
             for v, d in adj[u]:
-                # Se o bit de v não está na mask
                 if not (mask & (1 << v)):
                     proxima_mask = mask | (1 << v)
                     nova_dist = dist_atual + d
