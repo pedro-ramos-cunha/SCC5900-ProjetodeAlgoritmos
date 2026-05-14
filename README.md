@@ -34,8 +34,8 @@ Tarefas e prazos de entrega
     * &#9989; [Tarefa 16 (bitmask1)](bitmask1) Incompleto (7/10)
     * [Tarefa 17 (bitmask2)](bitmask2) Não deu tempo de entregar
 * **Entrega para 2026-05-14**
-    * [Tarefa 18 (game1)](game1)
-    * [Tarefa 19 (game2)](game2)
+    * &#9989; [Tarefa 18 (game1)](game1) 14/05/2026 11:20:22
+    * &#9989; [Tarefa 19 (game2)](game2) 14/05/2026 12:13:29
 * **Entrega para 2026-05-21**
     * [Tarefa 20 (Tnum1)](Tnum1)
     * [Tarefa 21 (Tnum2)](Tnum2)
